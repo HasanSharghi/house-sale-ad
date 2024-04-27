@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+
+
+
+@font-face {
+    font-family: IRANYekan;
+    src: url('../src/assets/fonts/IRANYekanLight.ttf') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: IRANYekan;
+    src: url('../src/assets/fonts/IRANYekanRegular.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: IRANYekan;
+    src: url('../src/assets/fonts/IRANYekanMedium.ttf') format('ttf');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: IRANYekan;
+    src: url('../src/assets/fonts/IRANYekanBold.ttf') format('ttf');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: IRANYekan;
+    src: url('../src/assets/fonts/IRANYekanExtraBold.ttf') format('ttf');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: IRANYekan;
+    src: url('../src/assets/fonts/IRANYekanBlack.ttf') format('ttf');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+  }
+  
+ 
